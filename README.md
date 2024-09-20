@@ -2,6 +2,7 @@
 
 ![AI-In-Sports](https://github.com/user-attachments/assets/19665445-6469-4a4f-8753-370da56e995e)
 
+
 This repository contains machine learning models designed to predict game outcomes for Football (NFL) and MLB games. The primary objectives of the models are:
 
 - Predict the **winner** of the game.
